@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
     margin: 0;
     padding: 0;
 }
@@ -13,4 +14,5 @@ html, body {
     flex-direction: column;
     background-color: #ccc;
     font-family: Arial, sans-serif;
+    color: red;
 }
